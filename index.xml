@@ -1,0 +1,38 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chase Cooper on Chase Cooper</title>
+    <link>https://djchasecooper.com/</link>
+    <description>Recent content in Chase Cooper on Chase Cooper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 10 Mar 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://djchasecooper.com/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>https://djchasecooper.com/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://djchasecooper.com/about/</guid>
+      <description>&lt;p&gt;Chase Cooper is creating house music.&lt;/p&gt;
+&lt;p&gt;Stay tuned for more:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://soundcloud.com/chase_cooper&#34;&gt;https://soundcloud.com/chase_cooper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://instagram.com/chasecoopermusic&#34;&gt;https://instagram.com/chasecoopermusic&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Contact:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:chasecoopermusic@gmail.com&#34;&gt;chasecoopermusic@gmail.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://djchasecooper.com/projects/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://djchasecooper.com/projects/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
